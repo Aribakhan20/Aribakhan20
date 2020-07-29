@@ -1,6 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
-My name is Ariba, i am an eager learner always willing to brush up my programming skills and coming up with innovative solutions to many problems!
+
 
 
 <!--
